@@ -35,7 +35,7 @@ a:hover {
 }
 
 .page {
-  width: min(100% - 40px, 980px);
+  width: min(100% - 40px, 1080px);
   margin: 0 auto;
   padding: 20px 0 28px;
 }
